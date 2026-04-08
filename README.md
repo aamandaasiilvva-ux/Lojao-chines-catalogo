@@ -1,5 +1,6 @@
 # Lojao-chines-catalogo
 
+            <!DOCTYPE html>
 <html lang="pt-br">
 <head>
     <meta charset="UTF-8">
@@ -30,15 +31,15 @@
         /* Detalhes do Produto */
         .prod-info { flex-grow: 1; padding-right: 10px; }
         .prod-nome { font-size: 15px; color: #262626; font-weight: 600; margin-bottom: 4px; }
-        .prod-obs { font-size: 12px; color: #0095f6; font-weight: 500; }
+        .prod-obs { font-size: 12px; color: #25d366; font-weight: 500; }
 
         /* Preço */
         .prod-price-box { text-align: right; min-width: 90px; }
         .prod-price { font-size: 16px; font-weight: bold; color: #262626; }
         .p-unit { font-size: 10px; color: #8e8e8e; display: block; }
 
-        /* Botão Flutuante Direct */
-        .ig-float { position: fixed; bottom: 20px; right: 20px; background: linear-gradient(45deg, #f09433 0%,#e6683c 25%,#dc2743 50%,#cc2366 75%,#bc1888 100%); color: white; width: 60px; height: 60px; border-radius: 50%; display: flex; align-items: center; justify-content: center; font-size: 28px; box-shadow: 0 4px 15px rgba(0,0,0,0.3); text-decoration: none; z-index: 2000; }
+        /* Botão Flutuante WhatsApp */
+        .wa-float { position: fixed; bottom: 20px; right: 20px; background: #25d366; color: white; width: 60px; height: 60px; border-radius: 50%; display: flex; align-items: center; justify-content: center; font-size: 30px; box-shadow: 0 4px 15px rgba(0,0,0,0.3); text-decoration: none; z-index: 2000; }
     </style>
 </head>
 <body>
@@ -50,25 +51,25 @@
     <div class="frete-banner">🚚 Frete Grátis para todo o Brasil</div>
 
     <div class="lista-header">
-        <h1>📦 Ofertas do Dia</h1>
+        <h1>📦 Catálogo de Ofertas</h1>
     </div>
 
     <div class="lista-container">
 
-        <a href="https://ig.me/m/lojaochines" class="lista-item">
+        <a href="https://wa.me/5563992740134?text=Olá! Tenho interesse nos Copos do Stitch." class="lista-item">
             <div class="prod-info">
                 <div class="prod-nome">Copos Stitch</div>
                 <div class="prod-obs">Cores variadas disponíveis</div>
             </div>
             <div class="prod-price-box">
-                <div class="prod-price">Consulte</div>
+                <div class="prod-price">Ver Cores</div>
             </div>
         </a>
 
-        <a href="https://ig.me/m/lojaochines" class="lista-item">
+        <a href="https://wa.me/5563992740134?text=Olá! Quero ver o Material Escolar de R$ 2,99." class="lista-item">
             <div class="prod-info">
                 <div class="prod-nome">Material Escolar (Canetas e +)</div>
-                <div class="prod-obs">Variedade incrível</div>
+                <div class="prod-obs">Variedade completa</div>
             </div>
             <div class="prod-price-box">
                 <span class="p-unit">A partir de</span>
@@ -76,53 +77,37 @@
             </div>
         </a>
 
-        <a href="https://ig.me/m/lojaochines" class="lista-item">
+        <a href="https://wa.me/5563992740134?text=Olá! Quero o Kit de Maquiagem com 30 itens por R$ 9,99." class="lista-item">
             <div class="prod-info">
                 <div class="prod-nome">Kit de Maquiagem (30 Itens)</div>
-                <div class="prod-obs">Qualquer kit da loja</div>
+                <div class="prod-obs">Qualquer kit selecionado</div>
             </div>
             <div class="prod-price-box">
                 <div class="prod-price">R$ 9,99</div>
             </div>
         </a>
 
-        <a href="https://ig.me/m/lojaochines" class="lista-item">
+        <a href="https://wa.me/5563992740134?text=Olá! Quais perfumes variados você tem na promoção?" class="lista-item">
             <div class="prod-info">
                 <div class="prod-nome">Perfumes Variados</div>
-                <div class="prod-obs">Fragrâncias exclusivas</div>
+                <div class="prod-obs">Fragrâncias Premium</div>
             </div>
             <div class="prod-price-box">
-                <span class="p-unit">Máximo</span>
+                <span class="p-unit">Até</span>
                 <div class="prod-price">R$ 49,99</div>
             </div>
         </a>
 
-        <a href="https://ig.me/m/lojaochines" class="lista-item">
+        <a href="https://wa.me/5563992740134?text=Olá! Tenho interesse no Tablet no ATACADO (5 unidades)." class="lista-item">
             <div class="prod-info">
-                <div class="prod-nome">Tablets (Cores Variadas)</div>
-                <div class="prod-obs">Promoção p/ Atacado (5 unid.)</div>
+                <div class="prod-nome">Tablets (Atacado - 5 unid.)</div>
+                <div class="prod-obs">Cores variadas</div>
             </div>
             <div class="prod-price-box">
                 <div class="prod-price">R$ 19,99</div>
-                <span class="p-unit">cada (Atacado)</span>
+                <span class="p-unit">cada</span>
             </div>
         </a>
 
-        <a href="https://ig.me/m/lojaochines" class="lista-item">
-            <div class="prod-info">
-                <div class="prod-nome">Tablet (Unidade)</div>
-                <div class="prod-obs">Varejo</div>
-            </div>
-            <div class="prod-price-box">
-                <div class="prod-price">R$ 29,99</div>
-            </div>
-        </a>
-
-    </div>
-
-    <a href="https://ig.me/m/lojaochines" class="ig-float" title="Chamar no Direct">📩</a>
-
-    <p style="text-align: center; color: #8e8e8e; font-size: 11px; margin-top: 30px;">Toque no produto para pedir no Direct</p>
-
-</body>
-</html>
+        <a href="https://wa.me/5563992112184?text=Olá! Tenho interesse no Tablet (1 unidade)." class="lista-item">
+        
