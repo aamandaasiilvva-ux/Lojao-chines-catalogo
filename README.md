@@ -56,7 +56,7 @@
 
     <div class="lista-container">
 
-        <a href="https://wa.me/5563992740134?text=Olá! Tenho interesse nos Copos do Stitch." class="lista-item">
+        <a href="https://wa.me/5563992112184?text=Olá! Tenho interesse nos Copos do Stitch." class="lista-item">
             <div class="prod-info">
                 <div class="prod-nome">Copos Stitch</div>
                 <div class="prod-obs">Cores variadas disponíveis</div>
@@ -66,7 +66,7 @@
             </div>
         </a>
 
-        <a href="https://wa.me/5563992740134?text=Olá! Quero ver o Material Escolar de R$ 2,99." class="lista-item">
+        <a href="https://wa.me/5563992112184?text=Olá! Quero ver o Material Escolar de R$ 2,99." class="lista-item">
             <div class="prod-info">
                 <div class="prod-nome">Material Escolar (Canetas e +)</div>
                 <div class="prod-obs">Variedade completa</div>
@@ -77,7 +77,7 @@
             </div>
         </a>
 
-        <a href="https://wa.me/5563992740134?text=Olá! Quero o Kit de Maquiagem com 30 itens por R$ 9,99." class="lista-item">
+        <a href="https://wa.me/5563992112184?text=Olá! Quero o Kit de Maquiagem com 30 itens por R$ 9,99." class="lista-item">
             <div class="prod-info">
                 <div class="prod-nome">Kit de Maquiagem (30 Itens)</div>
                 <div class="prod-obs">Qualquer kit selecionado</div>
@@ -87,7 +87,7 @@
             </div>
         </a>
 
-        <a href="https://wa.me/5563992740134?text=Olá! Quais perfumes variados você tem na promoção?" class="lista-item">
+        <a href="https://wa.me/5563992112184?text=Olá! Quais perfumes variados você tem na promoção?" class="lista-item">
             <div class="prod-info">
                 <div class="prod-nome">Perfumes Variados</div>
                 <div class="prod-obs">Fragrâncias Premium</div>
@@ -98,7 +98,7 @@
             </div>
         </a>
 
-        <a href="https://wa.me/5563992740134?text=Olá! Tenho interesse no Tablet no ATACADO (5 unidades)." class="lista-item">
+        <a href="https://wa.me/5563992112184?text=Olá! Tenho interesse no Tablet no ATACADO (5 unidades)." class="lista-item">
             <div class="prod-info">
                 <div class="prod-nome">Tablets (Atacado - 5 unid.)</div>
                 <div class="prod-obs">Cores variadas</div>
